@@ -1,2 +1,2 @@
-[Asteroid Arcade Game!](https://shliang.github/io)
+[Asteroid Arcade Game!](http://shliang.github.io/asteroid/)
 ========
